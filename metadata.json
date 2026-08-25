@@ -1,0 +1,10 @@
+{
+  "name": "QR Code Generator",
+  "description": "Generate custom QR codes for URLs, text, email, phone, Wi-Fi, vCards, and more. Export as PNG or SVG, or test scan them with your camera.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
